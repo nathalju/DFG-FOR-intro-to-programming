@@ -9,7 +9,8 @@ mat=[1	5	1	3
 1	3	3	1
 2	6	3	5
 5	7	2	6
-6	8	2	7
+6	8	2	8
 ];
 
 mat
+figure, imagesc(mat)
